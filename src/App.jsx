@@ -5,10 +5,10 @@ import "./App.css";
 // ! Import Component
 import Video from "./components/Video";
 import ModalSuccess from "./components/ModalSuccess";
-import ModalSuccess2 from "./components/ModalSuccessv2";
+import ModalSuccess2 from "./components/ModalNoFp";
 
 export default function App() {
   // return <Video />;
   return <ModalSuccess />;
-  // return <ModalSuccess2 />;
+  // return <ModalNoFp />;
 }

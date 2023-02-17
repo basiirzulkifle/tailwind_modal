@@ -1,6 +1,6 @@
 import React from "react";
 import { Player } from "@lottiefiles/react-lottie-player";
-function ModalSuccess2() {
+function ModalNoFp() {
   return (
     <>
       <main className="overflow-x-hidden bg-gray-200 font-sans text-gray-900 antialiased">
@@ -21,12 +21,11 @@ function ModalSuccess2() {
               <div className="mt-4 text-center md:mt-0 md:ml-6 md:text-left">
                 <p className="font-bold">Success</p>
                 <p className="mt-1 text-sm text-gray-700">
-                  You're successfully uploaded an evidence. Click 'Continue' to
-                  upload more. <br />
+                  Thank You for your submission. <br />
                   <br />
                 </p>
                 <p className="mt-1 text-sm text-gray-700">
-                  After submission, pls call us within 48 hours to claim your
+                  After submission, please call us within 48 hours to claim your
                   reward. Thank you.
                   <br />
                   <br />
@@ -127,4 +126,4 @@ function ModalSuccess2() {
     </>
   );
 }
-export default ModalSuccess2;
+export default ModalNoFp;

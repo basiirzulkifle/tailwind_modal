@@ -26,7 +26,7 @@ function ModalSuccess() {
                   <br />
                 </p>
                 <p className="mt-1 text-sm text-gray-700">
-                  After submission, pls call us within 48 hours to claim your
+                  After submission, please call us within 48 hours to claim your
                   reward. Thank you.
                   <br />
                   <br />
